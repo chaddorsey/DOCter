@@ -1,10 +1,10 @@
+This re-usable documentation template comes from the [great work CFPB has done](https://github.com/cfpb/DOCter).  We appreciate their strong open source contributions and are happy to build on them!   
+
 # DOCter
 
-DOCter is a [Jekyll](http://jekyllrb.com/) template for quickly building out project pages and documentation.
+DOCter is a [Jekyll](http://jekyllrb.com/) template for quickly building out project pages and documentation.  
 
-![DOCter Screenshot](https://github.com/ascott1/DOCter/blob/gh-pages/assets/img/screenshot.png?raw=true)
-
-[See the demo](http://cfpb.github.io/DOCter/)
+[See the demo](http://usedgov.github.io/DOCter/)
 
 ## To run DOCter locally
 
@@ -18,7 +18,7 @@ bundle install
 Fork and clone the repo:
 
 ```
-git clone git@github.com:cfpb/DOCter.git
+git clone git@github.com:usedgov/DOCter.git
 cd DOCter
 ```
 Run Jekyll:
