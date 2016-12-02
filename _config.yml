@@ -44,8 +44,8 @@ navigation:
   url: api-keys/
   internal: true
 - text: Feedback
-  url: example_page/
-  internal: true
+  url: https://github.com/usedgov/API-Program/issues
+  internal: false
 
 # Repo list
 # List repos that you would like to appear on the homepage here
