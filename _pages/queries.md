@@ -1,7 +1,7 @@
 ---
 layout: page
 title:  "Queries"
-permalink: /queries
+permalink: /queries/
 ---
 
 
