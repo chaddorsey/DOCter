@@ -1,5 +1,5 @@
 ---
 layout: page
 title:  "Fields"
-permalink: /fields
+permalink: /fields/
 ---
