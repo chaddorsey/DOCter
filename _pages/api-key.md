@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "Example Page"
+title:  "Register for an API Key"
 permalink: /api-key
 ---
 
