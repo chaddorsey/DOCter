@@ -5,7 +5,12 @@ permalink: /
 ---
 
 
+Welcome developers and give a brief description of the API and what it does.  
 
-The homepage content can be edited as markdown in _includes/index.html or directly within the index.html file.
+Endpoint: 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+* [More details about what each field means]().  
+* [Sample Queries]()
+* [Register for an API key]()
+* [Give feedback]()
