@@ -9,8 +9,8 @@ collections:
     permalink: /:path/
 
 # Title
-name: DOCter
-subtitle: A Jekyll template for project documentation
+name: Template API Documentation
+subtitle: A Jekyll template for API documentation
 
 # When using this template with a project page set the baseurl to '/project-name'
 # For user/organization pages set this to an empty string
@@ -31,15 +31,21 @@ logoalt:
 # Navigation
 # List links that should appear in the site sidebar here
 navigation:
-- text: Home
+- text: Overview
   url: ./
   internal: true
-- text: Example Page
+- text: Queries
   url: example_page/
   internal: true
-- text: DOCter Repo
-  url: https://github.com/usedgov/DOCter
-  internal: false
+- text: Fields
+  url: example_page/
+  internal: true
+- text: API Keys
+  url: example_page/
+  internal: true
+- text: Feedback
+  url: example_page/
+  internal: true
 
 # Repo list
 # List repos that you would like to appear on the homepage here
