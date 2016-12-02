@@ -35,13 +35,13 @@ navigation:
   url: ./
   internal: true
 - text: Queries
-  url: example_page/
+  url: queries/
   internal: true
 - text: Fields
-  url: example_page/
+  url: fields/
   internal: true
 - text: API Keys
-  url: example_page/
+  url: api-keys/
   internal: true
 - text: Feedback
   url: example_page/
