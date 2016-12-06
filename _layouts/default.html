@@ -14,6 +14,13 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/normalize.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/main.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/syntax.css">
+    <link rel="stylesheet" href="{{ site.baseurl }}/assets/font-awesome/css/font-awesome.min.css">
+<!--
+    <link rel="alternate" type="application/rss+xml" title=" » Feed" href="https://cfpb.github.io/feed/">
+-->
+    <link rel="canonical" href="https://usedgov.github.io/">
+    <link href="https://fonts.googleapis.com/css?family=Abel|Montserrat|Fjord+One" rel="stylesheet">
+
     <!--[if lt IE 9]>
       <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
       <script src="{{ site.baseurl }}/assets/js/respond.min.js"></script>
@@ -22,6 +29,18 @@
   </head>
   <body>
     <div class="container">
+
+      <div class="usa-disclaimer">
+    <div class="wrap">
+    <div class="usa-grid">
+      <span class="usa-disclaimer-official">
+        <img alt="U.S. flag" src="./assets/img/us_flag_small.png">
+        The official developer hub of the <a href="http://www.ed.gov/" target="_blank">U.S. Department of Education</a>, currently in beta.
+      </span>
+    </div>
+    </div>
+    </div>
+
       <header role="banner">
         <div class="wrap">
           {% if site.logourl != null %}
@@ -30,6 +49,7 @@
           <h1 class="site-title"><a class="title-link" href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
         </div>
       </header>
+
 
       <div class="wrap content">
 
