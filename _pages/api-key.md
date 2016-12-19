@@ -11,9 +11,11 @@ permalink: /api-keys/
   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
   var apiUmbrellaSignupOptions = {
     registrationSource: 'ed-developer-hub',
-    apiKey: 'GKqvZS2yThqpVN95whiKzoSxm6i6JiCKkg5PCFEr',
+    apiKey: '8zAyBbZEQ9oV9TW5PI7d6Tt17z6aVnUKxwrMG8hN',
    exampleApiUrl: 'https://api.ed.gov/data/less-than-highschool_2015?api_key={{api_key}}',
-  contactUrl: 'https://pages.18f.gov/ED-Developer-Hub/contact/'
+  contactUrl: 'https://pages.18f.gov/ED-Developer-Hub/contact/', 
+  siteName: 'Department of Education - Developers',
+  emailFromName: 'Department of Education - Developers'
   };
 
   /* * * DON'T EDIT BELOW THIS LINE * * */
